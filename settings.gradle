@@ -1,0 +1,3 @@
+include ':OkPhotoAbum'
+include ':app'
+rootProject.name = "OkPhotoAlbum"
